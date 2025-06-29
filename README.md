@@ -1,4 +1,4 @@
-# S3 + CloudFront + OAC Static Website Hosting Template
+# S3 + CloudFront + OAC Static Website Hosting CDK
 
 ![名称未設定ファイル drawio (1)](https://github.com/user-attachments/assets/15aa5d9f-0c4c-4465-8153-a8684621c54a)
 
